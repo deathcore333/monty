@@ -3,7 +3,7 @@
 
  ![image](https://user-images.githubusercontent.com/105078661/207705650-a632cd96-cf56-4276-b279-46ce48f4736f.png)
 
-**Authors: [Uloka Ngozi Gift](https://www.linkedin.com/in/gifftybabe/) and [Sodiq Adesola Ariyo](https://www.linkedin.com/in/sodiq-ariyo-1174651aa)**
+**Authors: [Amos Mwangi Maina] <amossmwangii@gmail.com>
 # Monty
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
